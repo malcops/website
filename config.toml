@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://paulmalcolm.ca"
 languageCode = "en"
 title = "Hugo Kiss theme"
 theme = "kiss"
@@ -37,11 +37,11 @@ pageID = ""
 page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
-twitter = "ribicemir"
-github = "ribice"
-email = "ribice@gmail.com"
-linkedin = "ribice"
-facebook = "ribice"
+twitter = ""
+github = "malcops"
+email = "paulsmalcolm@gmail.com"
+linkedin = "paulmalcolm"
+facebook = ""
 instagram = ""
 codepen = ""
 rss = "index.xml" # Add this to show RSS button in social.
