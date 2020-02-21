@@ -1,31 +1,32 @@
 baseurl = "https://paulmalcolm.ca"
 languageCode = "en"
-title = "Hugo Kiss theme"
+title = "Paul's Blog"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
-disqusShortname = "shortname"
+copyright = "Kiss Theme &copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+disqusShortname = ""
 googleAnalytics = ""
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
 
 [params.rss] # Adding this tag enables RSS feed
 includeContent = true # Includes whole content in rss
-authorName = "Emir Ribic" # Author full name
-authorEmail = "ribice@gmail.com" # Author email
+authorName = "Paul Malcolm" # Author full name
+authorEmail = "paulsmalcolm@gmail.com" # Author email
 
 [params.assets]
 customCSS = ["css/custom.css"]
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "Paul's Blog" # Title for home page
+icons = "Icons made by <a href=\"https://www.flaticon.com/authors/freepik\" title=\"Freepik\">Freepik"
 poweredby = true # Adds powered by hugo and kiss below Copyright
 related = true # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
 
 [params.features]
-disqusOnDemand = true  # Load Disqus comments on click
+disqusOnDemand = false # Load Disqus comments on click
 
 
 [params.opengraph.facebook]
