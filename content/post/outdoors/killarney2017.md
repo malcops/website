@@ -11,7 +11,6 @@ categories = ["outdoors",
 draft = false
 featuredImage = "img/lacloche/day3/756.jpg"
 +++
-Start writing here about La Cloche Silhouette
 
 ## Day 1 - George Lake to H47
 

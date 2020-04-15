@@ -1,5 +1,5 @@
 +++
-title = "Setting up zeromq on Beaglebone Black"
+title = "setting up zeromq on Beaglebone Black"
 description = ""
 tags = [
     "projects",

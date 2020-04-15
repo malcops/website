@@ -8,7 +8,6 @@ tags = [
 date = "2016-08-08"
 categories = ["outdoors",
               "algonquin"]
-draft = false
+draft = true
 +++
 
-Start writing here

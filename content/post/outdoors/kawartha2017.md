@@ -12,7 +12,6 @@ date = "2017-08-08"
 categories = ["outdoors",
               "kawartha"]
 featuredImage = "img/outdoor.PNG"
-draft = false
+draft = true
 +++
 
-Start writing here
