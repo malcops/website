@@ -20,3 +20,4 @@ draft = false
 - The Most Important Thing - Howard Marks
 - Can't Hurt Me - David Goggins
 - Atomic Habits - James Clear
+- Talking With Strangers - Malcolm Gladwell
