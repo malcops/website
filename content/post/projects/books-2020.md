@@ -21,3 +21,4 @@ draft = false
 - Can't Hurt Me - David Goggins
 - Atomic Habits - James Clear
 - Talking With Strangers - Malcolm Gladwell
+- Tribe - Sebastian Junger
