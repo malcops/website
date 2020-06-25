@@ -22,3 +22,4 @@ draft = false
 - Atomic Habits - James Clear
 - Talking With Strangers - Malcolm Gladwell
 - Tribe - Sebastian Junger
+- How to Be a Conservative - Roger Scruton
