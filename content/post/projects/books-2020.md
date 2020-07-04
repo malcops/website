@@ -23,3 +23,4 @@ draft = false
 - Talking With Strangers - Malcolm Gladwell
 - Tribe - Sebastian Junger
 - How to Be a Conservative - Roger Scruton
+- Golf is Not a Game of Perfect - Dr. Bob Rotella
