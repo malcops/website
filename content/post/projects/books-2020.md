@@ -26,3 +26,4 @@ draft = false
 - Golf is Not a Game of Perfect - Dr. Bob Rotella
 - Enough - John Bogle
 - Flow - Mihaly Csikszentmihalyi
+- Open - Andre Agassi
