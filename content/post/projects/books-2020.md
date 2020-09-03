@@ -27,3 +27,4 @@ draft = false
 - Enough - John Bogle
 - Flow - Mihaly Csikszentmihalyi
 - Open - Andre Agassi
+- Boom Town - Sam Anderson
