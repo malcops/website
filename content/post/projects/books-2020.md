@@ -28,3 +28,4 @@ draft = false
 - Flow - Mihaly Csikszentmihalyi
 - Open - Andre Agassi
 - Boom Town - Sam Anderson
+- Loserthink - Scott Adams
