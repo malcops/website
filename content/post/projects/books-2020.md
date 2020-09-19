@@ -29,3 +29,4 @@ draft = false
 - Open - Andre Agassi
 - Boom Town - Sam Anderson
 - Loserthink - Scott Adams
+- The Deficit Myth - Stephanie Kelton
