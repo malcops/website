@@ -30,3 +30,4 @@ draft = false
 - Boom Town - Sam Anderson
 - Loserthink - Scott Adams
 - The Deficit Myth - Stephanie Kelton
+- The War on Normal People - Andrew Yang
