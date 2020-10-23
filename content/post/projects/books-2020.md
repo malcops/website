@@ -32,3 +32,4 @@ draft = false
 - The Deficit Myth - Stephanie Kelton
 - The War on Normal People - Andrew Yang
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance
+- Schiit Happened - Jason Stoddard
