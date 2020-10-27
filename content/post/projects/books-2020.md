@@ -34,3 +34,4 @@ draft = false
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance
 - Schiit Happened - Jason Stoddard
 - Turning Pro - Steven Pressfield
+- Relentless - Tim Grover
