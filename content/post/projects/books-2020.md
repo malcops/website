@@ -35,3 +35,4 @@ draft = false
 - Schiit Happened - Jason Stoddard
 - Turning Pro - Steven Pressfield
 - Relentless - Tim Grover
+- The Psychology of Money - Morgan Housel
