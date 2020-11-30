@@ -36,3 +36,5 @@ draft = false
 - Turning Pro - Steven Pressfield
 - Relentless - Tim Grover
 - The Psychology of Money - Morgan Housel
+- Antifragile - Nassim Nicholas Taleb
+
