@@ -37,4 +37,5 @@ draft = false
 - Relentless - Tim Grover
 - The Psychology of Money - Morgan Housel
 - Antifragile - Nassim Nicholas Taleb
+- The Sports Gene - David Epstein
 
