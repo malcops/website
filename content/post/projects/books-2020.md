@@ -38,4 +38,5 @@ draft = false
 - The Psychology of Money - Morgan Housel
 - Antifragile - Nassim Nicholas Taleb
 - The Sports Gene - David Epstein
+- The Innovation Delusion - Lee Vinsel, Andrew Russell
 
