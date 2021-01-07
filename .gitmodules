@@ -1,3 +1,6 @@
 [submodule "themes/kiss"]
 	path = themes/kiss
 	url = https://github.com/malcops/kiss
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/malcops/hugo-theme-console
