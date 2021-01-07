@@ -6,7 +6,7 @@ tags = [
 ]
 date = "2020-08-25"
 categories = ["projects"]
-draft = false 
+draft = false
 +++
 
 Hardware
@@ -19,7 +19,7 @@ Hardware
 
 Audio
 - Audio Technica LP60BT turntable
-- Audio Technica AT-50x headphones
+- Audio Technica ATH-M40x headphones
 - Fluance Ai40 Bluetooth speakers
 
 Music
