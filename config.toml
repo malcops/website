@@ -1,70 +1,24 @@
-baseurl = "https://paulmalcolm.ca"
-languageCode = "en"
+baseurl = "https://paulmalcolm.ca/"
 title = "Paul's Blog"
-theme = "kiss"
-copyright = "Kiss Theme &copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
-disqusShortname = ""
-googleAnalytics = ""
-Paginate = 5 # Number of posts per page
-enableRobotsTXT = true
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
-[params.rss] # Adding this tag enables RSS feed
-includeContent = true # Includes whole content in rss
-authorName = "Paul Malcolm" # Author full name
-authorEmail = "paulsmalcolm@gmail.com" # Author email
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
-[params.assets]
-customCSS = ["css/custom.css"]
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast"
 
-[params.info]
-adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "Paul's Blog" # Title for home page
-icons = "Icons made by <a href=\"https://www.flaticon.com/authors/freepik\" title=\"Freepik\">Freepik"
-poweredby = true # Adds powered by hugo and kiss below Copyright
-related = true # Includes related articles at the bottom of the article
-codeCopy = false # Add copy button above code blocks
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
 
-[params.sections_left]
-# "/special-page" = "Special page"
-# "https://example.com" = "Example"
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
 
-[params.sections_right]
-# "http://example.com/special-page" = "Example"
-
-[params.features]
-disqusOnDemand = false # Load Disqus comments on click
-
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
-[params.opengraph.twitter]
-page = "" # Twitter Page username. If not set, params.social.twitter will be used.
-
-[params.social]
-twitter = ""
-github = "malcops"
-email = "paulsmalcolm@gmail.com"
-linkedin = "paulmalcolm"
-facebook = ""
-instagram = ""
-codepen = ""
-rss = "index.xml" # Add this to show RSS button in social.
-
-[params.social.config]
-platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
-
-[params.matomoAnalytics]
-siteID = 1
-rootURL = "//matomo.example.com/"
-
-[params.fathomAnalytics]
-rootURL = "//fathom.example.com/"
-
-[taxonomies]
-tag ="tags"
-
-[blackfriday]
-hrefTargetBlank = false
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
