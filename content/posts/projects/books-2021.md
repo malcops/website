@@ -12,3 +12,5 @@ draft = false
 +++
 
 1. How to Build a Car - Adrian Newey
+2. The Road to Character - David Brooks
+
