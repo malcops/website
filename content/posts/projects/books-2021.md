@@ -17,3 +17,4 @@ draft = false
 4. Every Shot Counts - Mark Broadie
 5. The Coddling of the American Mind - Greg Lukianoff, Jonathan Haidt
 6. Your Money or Your Life - Vicki Robin
+7. No Place to Hide - Glenn Greenwald
