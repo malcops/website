@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-02-24"
+date = "2021-03-01"
 categories = ["projects",
               "books"]
 draft = false
@@ -19,3 +19,4 @@ draft = false
 6. Your Money or Your Life - Vicki Robin
 7. No Place to Hide - Glenn Greenwald
 8. I Will Teach You To Be Rich - Ramit Sethi
+9. Golf's Holy War - Brett Cyrgalis
