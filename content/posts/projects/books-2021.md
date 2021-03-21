@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-03-01"
+date = "2021-03-21"
 categories = ["projects",
               "books"]
 draft = false
@@ -20,3 +20,4 @@ draft = false
 7. No Place to Hide - Glenn Greenwald
 8. I Will Teach You To Be Rich - Ramit Sethi
 9. Golf's Holy War - Brett Cyrgalis
+10. Beyond Order: 12 More Rules for Life - Jordan Peterson
