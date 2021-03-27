@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-03-21"
+date = "2021-03-27"
 categories = ["projects",
               "books"]
 draft = false
@@ -21,3 +21,4 @@ draft = false
 8. I Will Teach You To Be Rich - Ramit Sethi
 9. Golf's Holy War - Brett Cyrgalis
 10. Beyond Order: 12 More Rules for Life - Jordan Peterson
+11. Billion Dollar Loser - Reeves Wiedeman
