@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-03-27"
+date = "2021-04-05"
 categories = ["projects",
               "books"]
 draft = false
@@ -22,3 +22,4 @@ draft = false
 9. Golf's Holy War - Brett Cyrgalis
 10. Beyond Order: 12 More Rules for Life - Jordan Peterson
 11. Billion Dollar Loser - Reeves Wiedeman
+12. Thinking in Bets - Annie Duke
