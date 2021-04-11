@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-04-05"
+date = "2021-04-11"
 categories = ["projects",
               "books"]
 draft = false
@@ -23,3 +23,4 @@ draft = false
 10. Beyond Order: 12 More Rules for Life - Jordan Peterson
 11. Billion Dollar Loser - Reeves Wiedeman
 12. Thinking in Bets - Annie Duke
+13. A World Without Email - Cal Newport
