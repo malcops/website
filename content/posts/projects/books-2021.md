@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-04-21"
+date = "2021-04-28"
 categories = ["projects",
               "books"]
 draft = false
@@ -25,3 +25,4 @@ draft = false
 12. Thinking in Bets - Annie Duke
 13. A World Without Email - Cal Newport
 14. The Basic Laws of Human Stupidity - Carlo Cipolla
+15. The Practice: Shipping Creative Work - Seth Godin
