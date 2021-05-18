@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-05-14"
+date = "2021-05-17"
 categories = ["projects",
               "books"]
 draft = false
@@ -27,3 +27,4 @@ draft = false
 14. The Basic Laws of Human Stupidity - Carlo Cipolla
 15. The Practice: Shipping Creative Work - Seth Godin
 16. 12 Rules for Life: An Antidote to Chaos - Jordan Peterson 
+17. Wild at Heart - John Eldredge
