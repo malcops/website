@@ -11,9 +11,10 @@ draft = false
 
 Hardware
 - [Lenovo Thinkpad X260](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X260/p/22TP2TX2600)
-- Samsung Syncmaster SA350 monitor
+- HP Z24n monitor
 - [Durgod Taurus K320 TKL](https://www.amazon.ca/dp/B07B8DS585/ref=twister_B07HLSXSJK?_encoding=UTF8&psc=1) (white, MX Cherry Brown)
 - iPhone 6S 128GB
+- TaoTronics SoundLiberty 95 wireless earbuds
 - Kindle Paperwhite
 - Samsung M2020W printer
 
@@ -31,9 +32,9 @@ Music
 - Allen & Heath MixWizard3 16:2
 
 Golf
-- Titleist 910 Driver
-- Titleist 915F 3 wood
-- Titleist 818H2  hybrid
-- Ping S58 3i - PW
-- Cleveland CG15 wedges (52degree, 56 degree)
-- Odyssey Versa 2 black putter
+- Titleist 910 Driver (Mitsubishi Tensei Blue Stiff)
+- Titleist 915F 3 wood (Mitsubishi Tensei Blue Stiff)
+- Titleist 818H2  hybrid (Mitsubishi Tensei Blue Stiff)
+- Ping S58 4i - PW
+- Cleveland CG15 wedges (52degree, 56 degree, 60 degree)
+- Odyssey Versa 2 black putter (Superstroke Slim 3.0 grip)
