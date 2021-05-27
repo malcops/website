@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-05-17"
+date = "2021-05-27"
 categories = ["projects",
               "books"]
 draft = false
@@ -28,3 +28,4 @@ draft = false
 15. The Practice: Shipping Creative Work - Seth Godin
 16. 12 Rules for Life: An Antidote to Chaos - Jordan Peterson 
 17. Wild at Heart - John Eldredge
+18. Sovereignty - Ryan Michler
