@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-05-27"
+date = "2021-06-12"
 categories = ["projects",
               "books"]
 draft = false
@@ -29,3 +29,5 @@ draft = false
 16. 12 Rules for Life: An Antidote to Chaos - Jordan Peterson 
 17. Wild at Heart - John Eldredge
 18. Sovereignty - Ryan Michler
+19. Skin in the Game - Nassim Nicholas Taleb
+
