@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-06-12"
+date = "2021-06-16"
 categories = ["projects",
               "books"]
 draft = false
@@ -30,4 +30,5 @@ draft = false
 17. Wild at Heart - John Eldredge
 18. Sovereignty - Ryan Michler
 19. Skin in the Game - Nassim Nicholas Taleb
+20. The Almanack of Naval Ravikant - Eric Jorgenson
 
