@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-06-22"
+date = "2021-06-29"
 categories = ["projects",
               "books"]
 draft = false
@@ -32,4 +32,4 @@ draft = false
 19. Skin in the Game - Nassim Nicholas Taleb
 20. The Almanack of Naval Ravikant - Eric Jorgenson
 21. The Comfort Crisis - Michael Easter
-
+22. Worry-Free Money - Shannon Lee Simons
