@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-06-29"
+date = "2021-07-06"
 categories = ["projects",
               "books"]
 draft = false
@@ -33,3 +33,5 @@ draft = false
 20. The Almanack of Naval Ravikant - Eric Jorgenson
 21. The Comfort Crisis - Michael Easter
 22. Worry-Free Money - Shannon Lee Simons
+23. Get Your Life Back - John Eldredge
+
