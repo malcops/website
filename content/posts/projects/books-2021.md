@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-07-06"
+date = "2021-07-08"
 categories = ["projects",
               "books"]
 draft = false
@@ -26,7 +26,7 @@ draft = false
 13. A World Without Email - Cal Newport
 14. The Basic Laws of Human Stupidity - Carlo Cipolla
 15. The Practice: Shipping Creative Work - Seth Godin
-16. 12 Rules for Life: An Antidote to Chaos - Jordan Peterson 
+16. 12 Rules for Life: An Antidote to Chaos - Jordan Peterson
 17. Wild at Heart - John Eldredge
 18. Sovereignty - Ryan Michler
 19. Skin in the Game - Nassim Nicholas Taleb
@@ -34,4 +34,5 @@ draft = false
 21. The Comfort Crisis - Michael Easter
 22. Worry-Free Money - Shannon Lee Simons
 23. Get Your Life Back - John Eldredge
+24. Do the Work - Steven Pressfield
 
