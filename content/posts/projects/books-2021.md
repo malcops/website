@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-07-08"
+date = "2021-07-30"
 categories = ["projects",
               "books"]
 draft = false
@@ -35,4 +35,5 @@ draft = false
 22. Worry-Free Money - Shannon Lee Simons
 23. Get Your Life Back - John Eldredge
 24. Do the Work - Steven Pressfield
+25. The World Beyond Your Head - Matt Crawford
 
