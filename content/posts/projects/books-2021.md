@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-07-30"
+date = "2021-08-08"
 categories = ["projects",
               "books"]
 draft = false
@@ -36,4 +36,5 @@ draft = false
 23. Get Your Life Back - John Eldredge
 24. Do the Work - Steven Pressfield
 25. The World Beyond Your Head - Matt Crawford
+26. Maverick - Jason Riley
 
