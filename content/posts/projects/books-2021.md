@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-08-08"
+date = "2021-08-16"
 categories = ["projects",
               "books"]
 draft = false
@@ -37,4 +37,5 @@ draft = false
 24. Do the Work - Steven Pressfield
 25. The World Beyond Your Head - Matt Crawford
 26. Maverick - Jason Riley
+27. The Mamba Mentality: How I Play - Kobe Bryant
 
