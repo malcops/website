@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-08-16"
+date = "2021-09-13"
 categories = ["projects",
               "books"]
 draft = false
@@ -38,4 +38,5 @@ draft = false
 25. The World Beyond Your Head - Matt Crawford
 26. Maverick - Jason Riley
 27. The Mamba Mentality: How I Play - Kobe Bryant
+28. The Art of Learning - Josh Waitzkin
 
