@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-09-13"
+date = "2021-10-19"
 categories = ["projects",
               "books"]
 draft = false
@@ -39,4 +39,5 @@ draft = false
 26. Maverick - Jason Riley
 27. The Mamba Mentality: How I Play - Kobe Bryant
 28. The Art of Learning - Josh Waitzkin
-
+29. The Defining Decade - Meg Jay
+30. Money Road - Garth Turner
