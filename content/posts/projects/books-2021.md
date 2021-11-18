@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2021-10-27"
+date = "2021-11-18"
 categories = ["projects",
               "books"]
 draft = false
@@ -42,3 +42,4 @@ draft = false
 29. The Defining Decade - Meg Jay
 30. Money Road - Garth Turner
 31. The Setup - Dan Bilzerian
+32. Nothing But The Truth - Marie Henein
