@@ -8,10 +8,9 @@ hugo
 # why are the pictures being rotated??
 for f in $(find public/img -type f \( -iname \*.jpg -o -iname \*.JPG -o -iname \*.PNG -o -iname \*.png \))
 do
-        PICTURE_NAME="reduced-$(basename $f)"
+        PICTURE_NAME="$(basename $f)"
         PICTURE_PATH=$(dirname $f)
         ffmpeg -loglevel 2 -i $f -q:v 2 "${PICTURE_PATH}/${PICTURE_NAME}" -y
-        rm -f $f
 done
 
 cp favicons/* public
