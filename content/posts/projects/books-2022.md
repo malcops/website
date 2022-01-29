@@ -12,4 +12,5 @@ draft = false
 +++
 
 1. Beyond Wealth - Alexander Green
+2. The Psychology of Money - Morgan Housel
 
