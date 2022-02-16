@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-01-04"
+date = "2022-02-15"
 categories = ["projects",
               "books"]
 draft = false
@@ -13,4 +13,4 @@ draft = false
 
 1. Beyond Wealth - Alexander Green
 2. The Psychology of Money - Morgan Housel
-
+3. Conspiracy - Ryan Holiday
