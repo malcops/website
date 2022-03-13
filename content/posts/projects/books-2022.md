@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-03-03"
+date = "2022-03-13"
 categories = ["projects",
               "books"]
 draft = false
@@ -16,3 +16,4 @@ draft = false
 3. Conspiracy - Ryan Holiday
 4. It's Better to Be Feared - Seth Wickersham
 5. Stolen Focus - Johann Hari
+6. The Ride of a Lifetime - Robert Iger
