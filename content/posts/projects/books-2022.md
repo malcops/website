@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-03-19"
+date = "2022-03-20"
 categories = ["projects",
               "books"]
 draft = false
@@ -18,3 +18,4 @@ draft = false
 5. Stolen Focus - Johann Hari
 6. The Ride of a Lifetime - Robert Iger
 7. The Last Enforcer - Charles Oakley
+8. Walk in the Woods - Bill Bryson
