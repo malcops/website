@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-03-20"
+date = "2022-06-07"
 categories = ["projects",
               "books"]
 draft = false
@@ -19,3 +19,4 @@ draft = false
 6. The Ride of a Lifetime - Robert Iger
 7. The Last Enforcer - Charles Oakley
 8. Walk in the Woods - Bill Bryson
+9. Tough: My Journey to True Power - Terry Crews
