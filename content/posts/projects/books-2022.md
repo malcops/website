@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-06-07"
+date = "2022-07-18"
 categories = ["projects",
               "books"]
 draft = false
@@ -20,3 +20,4 @@ draft = false
 7. The Last Enforcer - Charles Oakley
 8. Walk in the Woods - Bill Bryson
 9. Tough: My Journey to True Power - Terry Crews
+10. Just Keep Buying - Nick Maggiulli
