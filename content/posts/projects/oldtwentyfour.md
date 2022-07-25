@@ -22,7 +22,12 @@ Now available on all major streaming platforms.
 Check us out on YouTube: [Castles Made of Sand](https://www.youtube.com/watch?v=J65SYgB9QeYv0)
 
 Past Shows:
-
+- Port Dover Community Centre (private event), July 2022 <!-- July 23, 2022 -->
+- Timmerman's Ranch, Dodge RAM Rodeo, July 2022 <!-- July 16, 2022 -->
+- Ramblin' Road, John Picard Classic Car Show, July 2022 <!-- July 3, 2022 -->
+- Port Dover Community Centre (private event), June 2022 <!-- June 25, 2022 -->
+- Destination 1207, October 2021 <!-- Pumpkinfest -->
+- Waterford Arena (Pumpkinfest Beer Garden), October 2021
 - Gibbler on the Roof, October 2020 <!-- Oct 17, 2020 -->
 - Destination 1207, March 2020 <!-- March 14, 2020 -->
 - The Greens at Renton (private event), December 2019 <!-- Dec 7, 2019 -->
