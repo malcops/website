@@ -7,9 +7,7 @@ categories = []
 menu = "main"
 draft = false
 +++
-
-![](/img/oldtwentyfour/bridgeshot.png)
-
+![](/img/oldtwentyfour/bridgeshot.png) 
 Founded in 2017.
 
 A 5 piece band with a sound inspired by artists such as The Band, Blue Rodeo, The Sheepdogs and Lynyrd Skynyrd.
@@ -34,13 +32,15 @@ Past Shows:
 - Destination 1207, October 2019 <!-- Pumpkinfest -->
 - Waterford Arena (Pumpkinfest Beer Garden), October 2019
 - Bloomsburg (private event), August 2019 <!--Poirier's, August 9 -->
-- Waterford (private event), <!-- Schira's, date? -->
+- Waterford (private event), June 2019 <!-- Schira's, date? -->
 - Gibbled Goose, March 2019
 - Gibbled Goose, October 2018
-- Ramblin' Road (private event), July 2019 <!-- July 21 -->
+- Ramblin' Road (private event), July 2018 <!-- July 21 -->
 - Gibbled Goose, July 2018 <!-- Canada Day -->
 - Waterford Arena (WMHA 50th Anniversary), May 2018 <!-- May 12 -->
 - Gibbled Goose, March 2018
+- Hamilton Legion (private event), January 2018 <!-- January 13, 2018 wedding-->
 - Swazzee's (Danny Thompson Band CD release party), June 2017 <!-- June 17, 2017 -->
+<!-- Drew's friend's wedding June 2017 -->
 <!--WDHS 125th w/ Elliott Saturday May 20, 2017-->
 
