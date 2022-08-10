@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-08-07"
+date = "2022-08-10"
 categories = ["projects",
               "books"]
 draft = false
@@ -22,3 +22,4 @@ draft = false
 9. Tough: My Journey to True Power - Terry Crews
 10. Just Keep Buying - Nick Maggiulli
 11. Beyond the Trees - Adam Shoalts
+12. Endure - Cameron Hanes
