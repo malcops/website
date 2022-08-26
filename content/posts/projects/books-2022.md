@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-08-10"
+date = "2022-08-25"
 categories = ["projects",
               "books"]
 draft = false
@@ -23,3 +23,4 @@ draft = false
 10. Just Keep Buying - Nick Maggiulli
 11. Beyond the Trees - Adam Shoalts
 12. Endure - Cameron Hanes
+13. The Price of Tomorrow - Jeff Booth
