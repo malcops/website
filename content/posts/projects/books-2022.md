@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-08-25"
+date = "2022-09-28"
 categories = ["projects",
               "books"]
 draft = false
@@ -24,3 +24,4 @@ draft = false
 11. Beyond the Trees - Adam Shoalts
 12. Endure - Cameron Hanes
 13. The Price of Tomorrow - Jeff Booth
+14. Paper Tiger - Tom Coyne
