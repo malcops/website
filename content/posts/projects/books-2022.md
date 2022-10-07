@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-09-28"
+date = "2022-10-07"
 categories = ["projects",
               "books"]
 draft = false
@@ -25,3 +25,4 @@ draft = false
 12. Endure - Cameron Hanes
 13. The Price of Tomorrow - Jeff Booth
 14. Paper Tiger - Tom Coyne
+15. A Guide to the Good Life: The Ancient Art of Stoic Joy - William Irvine
