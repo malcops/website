@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-10-07"
+date = "2022-10-11"
 categories = ["projects",
               "books"]
 draft = false
@@ -26,3 +26,4 @@ draft = false
 13. The Price of Tomorrow - Jeff Booth
 14. Paper Tiger - Tom Coyne
 15. A Guide to the Good Life: The Ancient Art of Stoic Joy - William Irvine
+16. Economic Facts and Fallacies - Thomas Sowell
