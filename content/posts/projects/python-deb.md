@@ -1,24 +1,34 @@
 +++
-title = "python debian package"
-description = "creating a debian package (.deb) for a python application"
+title = "packaging a python script"
+description = "packaging a python script as debian package, using pyinstaller and dpkg"
 tags = [
     "projects",
 ]
 date = "2022-08-31"
 categories = ["projects"]
-draft = true
+draft = false
 +++
 
 
-The below script creates a debian package "hello_0.1-1_amd64.deb", from the Python script 'script.py'.
-All dependencies listed in requirements.txt are installed into a fresh virtual environment, and then
-a binary is created from the Python script using 'pyinstaller'.
+The below script creates a debian package "hello_0.1-1_amd64.deb", from the Python script 'hello.py'.
 
+First, all dependencies listed in requirements.txt are installed into a fresh virtual environment (releaseenv). The required program
+'pyinstaller' is also pip-installed.
+
+Next, 'pyinstaller' generates a single binary from the Python script 'hello.py'. The generated binary (dist/hello) can be tested/run locally
+prior to packaging.
+
+The final output is a Debian package (.deb), which can be published and installed using 'apt' or 'dpkg':
+
+    sudo dpkg -i {NAME}_${VERSION}-${RELEASE}_amd64.deb
+
+<!-- Could embed this gist, but don't like the appearance -->
+<!-- {{< gist malcops c6d63ad85ae1d9406bd3dd29a6a6fca7 >}} -->
 
     #!/bin/sh
 
     NAME="hello"
-    SCRIPT_NAME="script.py"
+    SCRIPT_NAME="hello.py"
     VERSION="0.1"
     RELEASE="1"
 
@@ -31,7 +41,6 @@ a binary is created from the Python script using 'pyinstaller'.
     pip3 install -r requirements.txt
     pip3 install pyinstaller
     pyinstaller -y --clean --name ${NAME} --log-level DEBUG --onefile --paths releaseenv/lib/python3.8/site-packages/ ${SCRIPT_NAME}
-
 
     MAIN_FOLDER="${NAME}_${VERSION}-${RELEASE}_amd64"
     DEBIAN_FOLDER="${MAIN_FOLDER}/DEBIAN"
