@@ -1,10 +1,10 @@
 +++
 title = "packaging a python script"
-description = "packaging a python script as debian package, using pyinstaller and dpkg"
+description = "packaging a python script as debian package, using pyinstaller and dpkg-deb"
 tags = [
     "projects",
 ]
-date = "2022-08-31"
+date = "2022-10-11"
 categories = ["projects"]
 draft = false
 +++
