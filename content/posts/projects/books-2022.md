@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-10-11"
+date = "2022-10-24"
 categories = ["projects",
               "books"]
 draft = false
@@ -27,3 +27,4 @@ draft = false
 14. Paper Tiger - Tom Coyne
 15. A Guide to the Good Life: The Ancient Art of Stoic Joy - William Irvine
 16. Economic Facts and Fallacies - Thomas Sowell
+17. The Next Millionaire Next Door - Thomas J Stanley and Sarah Stanley Fallaw
