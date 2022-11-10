@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-11-09"
+date = "2022-11-10"
 categories = ["projects",
               "books"]
 draft = false
@@ -30,3 +30,4 @@ draft = false
 17. The Next Millionaire Next Door - Thomas J Stanley and Sarah Stanley Fallaw
 18. Rescuing Canada's Right - Adam Daifallah and Tasha Kheiriddin
 19. Good to Great - Jim Collins
+20. The Algebra of Happiness - Scott Galloway
