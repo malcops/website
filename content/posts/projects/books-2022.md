@@ -31,3 +31,4 @@ draft = false
 18. Rescuing Canada's Right - Adam Daifallah and Tasha Kheiriddin
 19. Good to Great - Jim Collins
 20. The Algebra of Happiness - Scott Galloway
+21. We The North - Doug Smith
