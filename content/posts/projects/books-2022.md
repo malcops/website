@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2022-11-10"
+date = "2022-12-08"
 categories = ["projects",
               "books"]
 draft = false
@@ -32,3 +32,4 @@ draft = false
 19. Good to Great - Jim Collins
 20. The Algebra of Happiness - Scott Galloway
 21. We The North - Doug Smith
+22. Norwegian Wood - Haruki Murakami
