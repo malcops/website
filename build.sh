@@ -9,7 +9,8 @@ hugo
 for f in $(find public/img -type f \( -iname \*.jpg -o -iname \*.JPG -o -iname \*.PNG -o -iname \*.png \))
 do
         PICTURE_NAME="$(basename $f)"
-        PICTURE_PATH=$(dirname $f)
+        PICTURE_PATH="$(dirname $f)"
+	echo processing "${PICTURE_NAME}"
         ffmpeg -loglevel 2 -i $f -q:v 2 "${PICTURE_PATH}/${PICTURE_NAME}" -y
 done
 
