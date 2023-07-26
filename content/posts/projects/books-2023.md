@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2023-06-19"
+date = "2023-07-26"
 categories = ["projects",
               "books"]
 draft = false
@@ -16,3 +16,4 @@ draft = false
 3. Vinyl Tap Stories - Randy Bachman
 4. Homo Deus: A History of Tomorrow - Yuval Noah Harari
 5. The Pragmatic Programmer: From Journeyman to Master - Andy Hunt, Dave Thomas
+6. The Good Life - Helen Nearing and Scott Nearing
