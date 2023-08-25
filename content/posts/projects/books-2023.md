@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2023-08-14"
+date = "2023-08-24"
 categories = ["projects",
               "books"]
 draft = false
@@ -19,3 +19,4 @@ draft = false
 6. The Good Life - Helen Nearing and Scott Nearing
 7. Why Mexicans Don't Drink Molson - Andrea Mandel-Campbell
 8. Four Thousand Weeks: Time Management for Mortals - Oliver Burkeman
+9. Die With Zero - Bill Perkins
