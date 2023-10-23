@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2023-08-24"
+date = "2023-10-23"
 categories = ["projects",
               "books"]
 draft = false
@@ -20,3 +20,4 @@ draft = false
 7. Why Mexicans Don't Drink Molson - Andrea Mandel-Campbell
 8. Four Thousand Weeks: Time Management for Mortals - Oliver Burkeman
 9. Die With Zero - Bill Perkins
+10. Principles for Dealing With the Changing World Order - Ray Dalio
