@@ -14,10 +14,14 @@ A 5 piece band with a sound inspired by artists such as The Band, Blue Rodeo, Th
 The name stems from our geographical roots and is an ode to our small-town, blue-collar philosophy. We make 
 music for the Canadian working class, because that's who we are!
 
-In 2019 we released "Test Drive", a 5-song album which was written and recorded in-house.
-Now available on all major streaming platforms.
+In 2019 we released "Test Drive", a 5-song album written and recorded in-house.
 
-Check us out on YouTube: [Castles Made of Sand](https://www.youtube.com/watch?v=J65SYgB9QeYv0)
+In 2021, a follow-up album, [The Shedheads](https://open.spotify.com/album/6e6poetxNJseqUZVlmsAi5).
+
+In 2023, featured on [Jakobian Red's](https://open.spotify.com/artist/7diExcxIfJwKJG4jbOT7l0) second album, [Seers and the May Queen](https://open.spotify.com/album/3sGajMx3TpRThfJZs4UzS4).
+
+Available on all major streaming platforms, or check us out on YouTube: [Castles Made of Sand](https://www.youtube.com/watch?v=J65SYgB9QeYv0)
+
 
 Past Shows:
 - Port Dover Community Centre (private event), July 2022 <!-- July 23, 2022 -->
