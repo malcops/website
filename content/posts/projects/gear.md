@@ -42,6 +42,7 @@ draft = false
 
 - iPhone 12 Mini
 - Garmin Instinct
+- Owala FreeSip water bottle
 - Kindle Paperwhite
 
 ## Office
