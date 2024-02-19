@@ -17,7 +17,7 @@ My list (a work in progress):
 
 ## Personal Finance
 1. The Psychology of Money - Morgan Housel
-2.  The Most Important Thing - Howard Marks
+2. The Most Important Thing - Howard Marks
 3. The Simple Path to Wealth - JL Collins
 4. Enough - John Bogle
 5. I Will Teach You To Be Rich - Ramit Sethi
