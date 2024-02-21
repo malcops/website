@@ -11,5 +11,5 @@ categories = ["projects",
 draft = false
 +++
 
-1. Shop Class As Soulcraft - Matthrew Crawford
+1. Shop Class As Soulcraft - Matthew Crawford
 2. East of Eden - John Steinbeck
