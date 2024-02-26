@@ -12,6 +12,7 @@ draft = true
 ## Gear
 - Lenovo Thinkpad
 - Nord keyboard
+- Audio-Technica headphones
 - Allen & Heath mixer
 - Kindle Paperwhite
 - Ping golf clubs
