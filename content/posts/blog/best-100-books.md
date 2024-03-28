@@ -29,6 +29,9 @@ My list (a work in progress):
 7. Enough - John Bogle
 8. I Will Teach You To Be Rich - Ramit Sethi
 
+## Biographies
+1. Steve Jobs - Walter Isaacson
+
 ## Personal Systems
 1. How to Fail at Everything and Still Win Big - Scott Adams
 2. Digital Minimalism - Cal Newport
@@ -38,6 +41,7 @@ My list (a work in progress):
 
 ## Philosophy
 1. The World Beyond Your Head - Matt Crawford
+2. Zen and the Art of Motorcycle Maintenance - Robert Pirsig
 
 ## Concepts
 1. The Almanack of Naval Ravikant - Eric Jorgenson
