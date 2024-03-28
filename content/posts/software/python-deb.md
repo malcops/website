@@ -18,7 +18,7 @@ First, all dependencies listed in requirements.txt are installed into a fresh vi
 Next, 'pyinstaller' generates a single binary from the Python script 'hello.py'. The generated binary (dist/hello) can be tested/run locally
 prior to packaging.
 
-The final output is a Debian package (.deb), which can be published and installed using 'apt' or 'dpkg':
+The final output is a Debian package (.deb), which can be easily published, and installed using 'apt' or 'dpkg':
 
     sudo dpkg -i {NAME}_${VERSION}-${RELEASE}_amd64.deb
 
