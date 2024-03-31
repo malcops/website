@@ -18,6 +18,7 @@ My list (a work in progress):
 ## Fiction
 1. East of Eden - John Steinbeck
 2. The Godfather - Mario Puzo
+3. The Great Gatsby - F. Scott Fitzgerald
 
 ## Personal Finance
 1. The Psychology of Money - Morgan Housel
