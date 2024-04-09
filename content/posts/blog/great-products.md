@@ -29,6 +29,7 @@ draft = true
 - Reigning Champ crewnecks
 - 3sixteen denim
 - Kirkland wool socks
+- Stanfield DryFX pocket work tee
 
 ## Consumables
 - Miller High Life
