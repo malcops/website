@@ -20,6 +20,8 @@ draft = false
 - Nord Electro 4D (61 key, waterfall)
 - Roland RD-64
 - Nord Electro 2 rackmount
+- Shure SM57
+- Zoom H4n recorder
 - QSC K10 speakers
 - [Allen & Heath ZED 60-10FX](https://www.amazon.ca/Allen-Heath-Multi-Purpose-6-Channel-Connectivity/dp/B009G1SHS6/ref=sr_1_1?dchild=1&keywords=allen+heath+zed60+10fx&qid=1598399699&sr=8-1) analog mixer
 - Allen & Heath MixWizard3 16:2
