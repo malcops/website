@@ -12,6 +12,7 @@ draft = true
 ## Gear
 - Lenovo Thinkpad
 - Nord keyboard
+- Shure SM57/SM58
 - Audio-Technica headphones
 - Allen & Heath mixer
 - Kindle Paperwhite
