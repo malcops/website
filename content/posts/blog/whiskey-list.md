@@ -9,6 +9,10 @@ categories = ["projects"]
 draft = true
 +++
 
+## List to Try
+- Green Spot (Irish)
+- Té Bheag (Scotch)
+
 ## Canadian Whiskeys
 1. Lot 40
 1. Forty Creek
