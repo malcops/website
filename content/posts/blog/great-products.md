@@ -37,4 +37,5 @@ draft = true
 - Que Pasa tortilla chips
 - Schep's Double Dutch stroopwafels
 - Frank's Red Hot Sauce
-
+- Cholula Hot Sauce (original)
+- Dr. Bronner's peppermint castille soap
