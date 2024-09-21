@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2024-09-07"
+date = "2024-09-20"
 categories = ["projects",
               "books"]
 draft = false
@@ -15,3 +15,4 @@ draft = false
 2. East of Eden - John Steinbeck
 3. The Prince - Stephen Maher 
 4. Pierre Poilievre: A Political Life - Andrew Lawton
+5. The Appearance of Power - Tanner Guzy
