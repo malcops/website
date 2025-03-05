@@ -16,3 +16,6 @@ piano desk restoration
 Blind 75 tips table
 pyinfra homelab setup
 Tailscale homelab setup
+
+write a C syntax checker in Python/Golang
+how to recompress a Debian package
