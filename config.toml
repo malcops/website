@@ -1,4 +1,5 @@
-baseurl = "https://paulmalcolm.ca/"
+# baseurl = "https://paulmalcolm.ca/"
+baseurl = "https://malcops.github.io/website/"
 title = "Paul's Blog"
 theme = "hugo-theme-console"
 languageCode = "en-us"
