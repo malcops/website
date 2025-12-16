@@ -1,4 +1,4 @@
-baseURL = 'https://tomfran.github.io'
+baseURL = 'https://malcops.github.io/website/'
 languageCode = 'en-us'
 title = 'Paul Malcolm'
 theme = 'typo'
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Home meta description
-description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+description = "A tech-oriented personal blog curated by Paul Malcolm."
 
 # Appearance settings
 theme = 'auto'
@@ -18,16 +18,16 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a various topics, including algorithms, distributed systems, databases, and information retrieval. \\
+I am a Canadian Software Engineer with a passion for solving complex problems.
+I am interested in various topics around Python and Go programming, CI/CD systems, Docker and embedded systems. \\
 Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
 
 singleDateFormat = '2 Jan 2006'
 
 # Collection to display on home
-# homeCollectionTitle = 'Posts'
-# homeCollection = 'posts'
+homeCollectionTitle = ''
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -46,19 +46,19 @@ home = "~"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/tomaselli-/"
+url = "https://www.linkedin.com/in/paulmalcolm/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/tomfran"
+url = "https://github.com/malcops"
 
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@tomfran"
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@tomfran"
 
-[[params.social]]
-name = "leetcode"
-url = "https://leetcode.com/u/tomfran/"
+# [[params.social]]
+# name = "leetcode"
+# url = "https://leetcode.com/u/tomfran/"
 
 # Main menu pages
 # [[params.menu]]
@@ -72,6 +72,10 @@ url = "/posts"
 [[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "photos"
+url = "/photos"
 
 [[params.menu]]
 name = "library"
@@ -98,17 +102,3 @@ gzip = true
 pattern = "^.+\\.(png|jpg|gif|webp)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
-
-[params.giscus]
-enable = false
-repo = "tomfran/blog"
-repoid = "R_kgDOLtSszw"
-category = "General"
-categoryid = "DIC_kwDOLtSsz84CfLm4"
-mapping = "pathname"
-theme = "preferred_color_scheme"
-
-[params.umami]
-enable = true
-websiteId = "cc219028-551e-4f3b-bbc7-e124ca907ce0"
-jsLocation = "https://cloud.umami.is/script.js"
