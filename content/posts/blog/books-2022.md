@@ -1,15 +1,21 @@
-+++
-title = "2022 reading list"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2022-12-08"
-categories = ["projects",
-              "books"]
-draft = false
-+++
+---
+title: 2022 reading list
+author: Paul
+date: '2022-12-08'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1. Beyond Wealth - Alexander Green
 2. The Psychology of Money - Morgan Housel

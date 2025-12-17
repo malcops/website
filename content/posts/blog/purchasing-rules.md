@@ -1,14 +1,20 @@
-+++
-title = "rules for purchasing"
-description = ""
-tags = [
-    "projects",
-]
-date = "2024-04-04"
-categories = ["projects"]
-draft = true
-+++
-
+---
+title: rules for purchasing
+author: Paul
+date: '2024-04-04'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 - it it a want or a need?
 - can i get it used or second hand?

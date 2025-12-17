@@ -1,13 +1,20 @@
-+++
-title = "packaging a python script"
-description = "packaging a python script as debian package, using pyinstaller and dpkg-deb"
-tags = [
-    "projects",
-]
-date = "2024-07-15"
-categories = ["projects"]
-draft = false
-+++
+---
+title: packaging a python script
+author: Paul
+date: '2024-07-15'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 The below script creates a debian package "hello_0.1-1_amd64.deb", from the Python script 'hello.py'.
 <!-- Could embed this gist, but don't like the appearance -->

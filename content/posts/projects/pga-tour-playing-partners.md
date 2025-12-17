@@ -1,15 +1,21 @@
-+++
-title = "effects of playing partners on pga tour performance"
-description = ""
-tags = [
-    "projects",
-    "golf",
-]
-date = "2020-01-29"
-categories = ["projects",
-              "golf"]
-draft = true
-+++
+---
+title: effects of playing partners on pga tour performance
+author: Paul
+date: '2020-01-29'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- golf
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 Effect of playing with slow players
 Effect of playing with unlikeable players (Bryson Dechambeau, Patrick Reed, Bubba Watson)

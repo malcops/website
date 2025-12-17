@@ -1,15 +1,21 @@
-+++
-title = "2020 reading list"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2020-12-30"
-categories = ["projects",
-              "books"]
-draft = false
-+++
+---
+title: 2020 reading list
+author: Paul
+date: '2020-12-30'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1.  The Black Swan - Nassim Nicholas Taleb
 2.  The Innovators - Walter Isaacson

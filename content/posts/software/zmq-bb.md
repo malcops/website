@@ -1,14 +1,20 @@
-+++
-title = "setting up zeromq on Beaglebone Black"
-description = ""
-tags = [
-    "projects",
-    "development",
-]
-date = "2019-06-11"
-categories = []
-draft = false
-+++
+---
+title: setting up zeromq on Beaglebone Black
+author: Paul
+date: '2019-06-11'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1. SCP libsodium and and stable version of ZMQ to the Beaglebone
 + For both libsodium and ZMQ, run:

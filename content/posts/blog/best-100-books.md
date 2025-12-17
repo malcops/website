@@ -1,15 +1,21 @@
-+++
-title = "read the best 100 books over and over again"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2024-02-21"
-categories = ["projects",
-              "books"]
-draft = true
-+++
+---
+title: read the best 100 books over and over again
+author: Paul
+date: '2024-02-21'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 As Naval Ravikant says, ["Read the best 100 books over and over again".](https://twitter.com/naval/status/1374440483812827136)
 

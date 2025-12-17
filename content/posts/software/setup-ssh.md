@@ -1,16 +1,20 @@
-
-
-+++
-title = "setting up ssh on Beaglebone Black"
-description = ""
-tags = [
-    "projects",
-    "development",
-]
-date = "2019-02-22"
-categories = []
-draft = false
-+++
+---
+title: setting up ssh on Beaglebone Black
+author: Paul
+date: '2019-02-22'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 paragraph
 

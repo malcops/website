@@ -1,14 +1,20 @@
-+++
-title = "diy di (direct input) box"
-description = ""
-tags = [
-    "music",
-    "development",
-]
-date = "2020-02-22"
-categories = []
-draft = true
-+++
+---
+title: diy di (direct input) box
+author: Paul
+date: '2020-02-22'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- music
+showTags: false
+hideBackToTop: true
+---
 
 ## Background
 

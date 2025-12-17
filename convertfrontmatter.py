@@ -1,5 +1,6 @@
-import tomllib
+import tomli as tomllib
 import yaml
+import os
 import sys
 from pathlib import Path
 
@@ -21,6 +22,10 @@ def convert_frontmatter(path):
     # Extract TOML front matter
     start = text.find("+++")
     end = text.find("+++", start + 3)
+
+    if start < 0 or end < 0:
+        print("unexpected format")
+        return text
 
     toml_data = tomllib.loads(text[start + 3:end])
 
@@ -47,8 +52,19 @@ def convert_frontmatter(path):
         sort_keys=False,
         allow_unicode=True,
     )
+    print(yaml_block)
 
     return f"---\n{yaml_block}---\n\n" + text[end + 3:].lstrip()
 
 if __name__ == "__main__":
-    print(convert_frontmatter(sys.argv[1]))
+
+    for root, dir, files in os.walk("content"):
+        markdown_files = [f for f in files if f.endswith(".md")]
+        for mdf in markdown_files:
+            print(os.path.join(root, mdf))
+            content = convert_frontmatter(os.path.join(root, mdf))
+
+            with open(os.path.join(root, mdf), 'w') as ff:
+                ff.write(content)
+
+    # print(convert_frontmatter(sys.argv[1]))

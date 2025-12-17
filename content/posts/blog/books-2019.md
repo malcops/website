@@ -1,15 +1,21 @@
-+++
-title = "2019 reading list"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2019-12-31"
-categories = ["projects",
-              "books"]
-draft = false
-+++
+---
+title: 2019 reading list
+author: Paul
+date: '2019-12-31'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 - How to Fail at Everything and Still Win Big - Scott Adams **
 - On Tyranny - Todd Snyder

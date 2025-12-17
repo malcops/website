@@ -1,14 +1,20 @@
-+++
-title = "mississagua river 2017"
-description = ""
-tags = [
-    "outdoors",
-]
-date = "2017-08-08"
-categories = ["outdoors",
-              "kawartha"]
-draft = false
-+++
+---
+title: mississagua river 2017
+author: Paul
+date: '2017-08-08'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- outdoors
+showTags: false
+hideBackToTop: true
+---
 
 ## Night 1 - 601 Mississagua
 

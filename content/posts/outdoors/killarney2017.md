@@ -1,16 +1,21 @@
-+++
-title = "killarney 2017 - la cloche"
-description = ""
-tags = [
-    "outdoors",
-    "hugo",
-]
-date = "2017-10-18"
-categories = ["outdoors",
-              "killarney"]
-draft = false
-featuredImage = "img/lacloche/day3/756.jpg"
-+++
+---
+title: killarney 2017 - la cloche
+author: Paul
+date: '2017-10-18'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- hugo
+- outdoors
+showTags: false
+hideBackToTop: true
+---
 
 ## Day 1 - George Lake to H47
 

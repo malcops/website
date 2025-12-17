@@ -1,14 +1,21 @@
-+++
-title = "BYOC digital delay pedal"
-description = ""
-tags = [
-    "music",
-    "projects"
-]
-date = "2020-09-30"
-categories = []
-draft = false
-+++
+---
+title: BYOC digital delay pedal
+author: Paul
+date: '2020-09-30'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- music
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 [Link to Kit](https://buildyourownclone.com/products/classicdelay)
 

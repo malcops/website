@@ -1,14 +1,20 @@
-+++
-title = "build yocto image for beaglebone black"
-description = ""
-tags = [
-    "projects",
-    "development",
-]
-date = "2022-02-02"
-categories = []
-draft = false
-+++
+---
+title: build yocto image for beaglebone black
+author: Paul
+date: '2022-02-02'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1. SCP libsodium and and stable version of ZMQ to the Beaglebone
 + For both libsodium and ZMQ, run:

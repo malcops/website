@@ -1,12 +1,20 @@
-+++
-title = "old twenty-four"
-description = ""
-tags = []
-date = "2022-08-16"
-categories = []
-menu = "main"
-draft = false
-+++
+---
+title: old twenty-four
+author: Paul
+date: '2022-08-16'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+showTags: false
+hideBackToTop: true
+---
+
 ![](/img/oldtwentyfour/bridgeshot.png) 
 Founded in 2017.
 

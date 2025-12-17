@@ -1,14 +1,20 @@
-+++
-title = "golf game analysis 2019"
-description = ""
-tags = [
-    "projects",
-    "golf",
-]
-date = "2019-07-27"
-categories = ["projects",
-              "golf"]
-draft = true
-+++
+---
+title: golf game analysis 2019
+author: Paul
+date: '2019-07-27'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- golf
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 An analysis of my golf game.

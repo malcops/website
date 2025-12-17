@@ -1,13 +1,20 @@
-+++
-title = "advice for giving a best man speech"
-description = ""
-tags = [
-    "projects",
-]
-date = "2021-09-07"
-categories = ["projects"]
-draft = true
-+++
+---
+title: advice for giving a best man speech
+author: Paul
+date: '2021-09-07'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 # Write the thing
 

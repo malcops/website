@@ -1,6 +1,17 @@
-+++
-image = "IMG_2656.JPG"
-date = "2019-06-31"
-title = "Victoria, BC"
-type = "gallery"
-+++
+---
+title: Victoria, BC
+author: Paul
+date: '2019-06-31'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+showTags: false
+hideBackToTop: true
+---
+
