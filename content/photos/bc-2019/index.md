@@ -1,7 +1,7 @@
 ---
 title: Victoria, BC
 author: Paul
-date: '2019-06-31'
+date: '2019-06-30'
 summary: ' '
 description: ' '
 draft: false
