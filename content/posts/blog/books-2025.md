@@ -5,7 +5,7 @@ tags = [
     "projects",
     "books",
 ]
-date = "2025-01-22"
+date = "2026-01-05"
 categories = ["projects",
               "books"]
 draft = false
@@ -16,3 +16,4 @@ draft = false
 3. THe Lion Tracker's Guide to Life - Boyd Varty
 4. Cannery Row - John Steinbeck
 5. The Wealth Ladder - Nick Maggiulli
+6. The Art of Spending Money - Morgan Housel
