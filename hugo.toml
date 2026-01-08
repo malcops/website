@@ -1,0 +1,104 @@
+baseURL = 'https://malcops.github.io/website/'
+languageCode = 'en-us'
+title = 'Paul Malcolm'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Home meta description
+description = "A tech-oriented personal blog curated by Paul Malcolm."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+I am a Canadian Software Engineer with a passion for solving complex problems.
+I am interested in various topics around Python and Go programming, CI/CD systems, Docker and embedded systems. \\
+Feel free to read [about myself](/about) or to look at my [posts](/posts).
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Footer
+showFooter = true
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "~"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/paulmalcolm/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/malcops"
+
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@tomfran"
+
+# [[params.social]]
+# name = "leetcode"
+# url = "https://leetcode.com/u/tomfran/"
+
+# Main menu pages
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "photos"
+url = "/photos"
+
+[[params.menu]]
+name = "library"
+url = "/library"
+
+# [[params.menu]]
+# name = "tags"
+# url = "/tags"
+
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'bw'
+
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false

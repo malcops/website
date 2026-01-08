@@ -1,17 +1,22 @@
-+++
-title = "bash script for gopro session5"
-description = ""
-tags = [
-    "projects",
-    "ffmpeg",
-    "gopro"
-]
-date = "2018-06-28"
-categories = ["projects",
-              "ffmpeg",
-              "gopro"]
-draft = false 
-+++
+---
+title: bash script for gopro session5
+author: Paul
+date: '2018-06-28'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- ffmpeg
+- gopro
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 Script is a modified version of https://github.com/KonradIT/gopro-linux:
 

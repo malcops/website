@@ -1,15 +1,21 @@
-+++
-title = "2021 reading list"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2021-12-22"
-categories = ["projects",
-              "books"]
-draft = false
-+++
+---
+title: 2021 reading list
+author: Paul
+date: '2021-12-22'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1. How to Build a Car - Adrian Newey
 2. The Road to Character - David Brooks

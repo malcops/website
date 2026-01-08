@@ -1,13 +1,20 @@
-+++
-title = "bruce peninsula 2020"
-description = ""
-tags = [
-    "outdoors",
-]
-date = "2020-08-08"
-categories = ["outdoors"]
-draft = false
-+++
+---
+title: bruce peninsula 2020
+author: Paul
+date: '2020-08-08'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- outdoors
+showTags: false
+hideBackToTop: true
+---
 
 ![grotto](/img/brucepeninsula2020/map.JPG)
 

@@ -1,13 +1,19 @@
-+++
-title = "nand2tetris (part 1)"
-description = ""
-tags = [
-    "development",
-]
-date = "2020-06-25"
-categories = []
-draft = true
-+++
+---
+title: nand2tetris (part 1)
+author: Paul
+date: '2020-06-25'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+showTags: false
+hideBackToTop: true
+---
 
 ## Background
 

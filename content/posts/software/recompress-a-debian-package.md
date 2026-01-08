@@ -1,13 +1,20 @@
-+++
-title = "recompress a debian package"
-description = ""
-tags = [
-    "software",
-]
-date = "2025-06-20"
-categories = ["projects"]
-draft = true
-+++
+---
+title: recompress a debian package
+author: Paul
+date: '2025-06-20'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- software
+showTags: false
+hideBackToTop: true
+---
 
 In my case, I'm stuck on an outdated version of Artifactory that is unable to handle newer compression algorithms.
 For internally built packages, it's easy enough to build everything with the right compression. But for externally

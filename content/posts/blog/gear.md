@@ -1,13 +1,20 @@
-+++
-title = "gear"
-description = ""
-tags = [
-    "projects",
-]
-date = "2024-02-19"
-categories = ["projects"]
-draft = false
-+++
+---
+title: gear
+author: Paul
+date: '2024-02-19'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 ## Audio
 

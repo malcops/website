@@ -1,13 +1,20 @@
-+++
-title = "great products"
-description = ""
-tags = [
-    "projects",
-]
-date = "2024-03-25"
-categories = ["projects"]
-draft = true
-+++
+---
+title: great products
+author: Paul
+date: '2024-03-25'
+summary: ' '
+description: ' '
+draft: true
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 ## Gear
 - Lenovo Thinkpad

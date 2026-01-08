@@ -1,14 +1,21 @@
-+++
-title = "cuben fiber stuff sacks"
-description = ""
-tags = [
-    "projects",
-    "outdoors"
-]
-date = "2021-02-19"
-categories = []
-draft = false
-+++
+---
+title: cuben fiber stuff sacks
+author: Paul
+date: '2021-02-19'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- outdoors
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 Start with a raw piece of cuben fiber (Dyneema), in this case approximately 12"x16". Fold and tape the corners with transfer tape.
 

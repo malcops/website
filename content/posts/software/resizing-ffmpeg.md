@@ -1,15 +1,21 @@
-+++
-title = "resizing images using ffmpeg"
-description = ""
-tags = [
-    "projects",
-    "ffmpeg",
-]
-date = "2018-06-22"
-categories = ["projects",
-              "ffmpeg"]
-draft = false 
-+++
+---
+title: resizing images using ffmpeg
+author: Paul
+date: '2018-06-22'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+- ffmpeg
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 Photos taken with GoPro Session5 have resolution 1334x750 and file size of 2.1MB.
 

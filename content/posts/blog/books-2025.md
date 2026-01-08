@@ -1,15 +1,21 @@
-+++
-title = "2025 reading list"
-description = ""
-tags = [
-    "projects",
-    "books",
-]
-date = "2026-01-05"
-categories = ["projects",
-              "books"]
-draft = false
-+++
+---
+title: 2025 reading list
+author: Paul
+date: '2025-01-05'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- books
+- development
+- projects
+showTags: false
+hideBackToTop: true
+---
 
 1. On Canadian Democracy - Jonathan Manthorpe
 2. Kitchen Confidential - Anthony Bourdain

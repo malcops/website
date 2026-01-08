@@ -1,2 +1,2 @@
 # website
-Updated website (paulmalcolm.ca) created using Hugo and Kiss theme
+Updated website (paulmalcolm.ca) created using Hugo and Typo theme

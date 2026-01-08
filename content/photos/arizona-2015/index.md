@@ -1,6 +1,17 @@
-+++
-image = "IMG_0145.JPG"
-date = "2015-11-29"
-title = "Phoenix, AZ"
-type = "gallery"
-+++
+---
+title: Phoenix, AZ
+author: Paul
+date: '2015-11-29'
+summary: ' '
+description: ' '
+draft: false
+toc: false
+readTime: true
+autonumber: true
+math: false
+tags:
+- development
+showTags: false
+hideBackToTop: true
+---
+
