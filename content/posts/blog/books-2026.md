@@ -19,4 +19,5 @@ hideBackToTop: true
 
 1. Elon Musk - Walter Isaacson
 2. Going Fast and Fixing Things - Rich Benoit
+3. Don't Be Canada - Tristin Hopper
 
