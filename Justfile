@@ -1,13 +1,15 @@
 # Justfile for a Hugo website
 # Run commands with: just <recipe>
 
+DOCKER_CMD := "docker run -v ${PWD}:/src --net=host hugomods/hugo"
+
 # Default recipe
 default:
   @just --list
 
 # Serve the site locally with drafts enabled
 serve:
-  hugo server -D
+  {{DOCKER_CMD}} server -D
 
 # Serve on a specific port
 # serve-port PORT=1313:
@@ -15,11 +17,11 @@ serve:
 
 # Build the site for production
 build:
-  hugo
+  {{DOCKER_CMD}} hugo
 
 # Build with minification
 build-min:
-  hugo --minify
+  {{DOCKER_CMD}} hugo --minify
 
 # Clean the generated site
 clean:
@@ -28,13 +30,13 @@ clean:
 # Create a new post
 # Usage: just new-post my-post-title
 new-post TITLE:
-  hugo new posts/{{TITLE}}.md
+  {{DOCKER_CMD}} hugo new posts/{{TITLE}}.md
 
 # Create a new page (not a post)
 # Usage: just new-page about
 new-page NAME:
-  hugo new {{NAME}}.md
+  {{DOCKER_CMD}} hugo new {{NAME}}.md
 
 # Show Hugo version
 version:
-  hugo version
+  {{DOCKER_CMD}} hugo version
