@@ -40,3 +40,7 @@ new-page NAME:
 # Show Hugo version
 version:
   {{DOCKER_CMD}} hugo version
+
+check:
+  python3 checker.py
+
