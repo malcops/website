@@ -15,7 +15,7 @@ showTags: false
 hideBackToTop: true
 ---
 
-![](/img/oldtwentyfour/bridgeshot.png) 
+![](bridgeshot.png) 
 Founded in 2017.
 
 A 5 piece band with a sound inspired by artists such as The Band, Blue Rodeo, The Sheepdogs and Lynyrd Skynyrd.
