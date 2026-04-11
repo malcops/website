@@ -19,6 +19,6 @@ hideBackToTop: true
 
 [Link to Kit](https://buildyourownclone.com/products/classicdelay)
 
-![Interior circuitry all assembled](/img/delaypedal/interior.JPG)
+![Interior circuitry all assembled](interior.JPG)
 
-![Exterior shot](/img/delaypedal/exterior.JPG)
+![Exterior shot](exterior.JPG)
