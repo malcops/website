@@ -21,8 +21,6 @@ hideBackToTop: true
 
 https://nextgenguitars.ca/pages/whats-new.htmlbuild-your-own-passive-di-box-video-included/
 
-
-
 The main component (and largest expense) for this project is the transformer, a Hammond 1140-DB.
 https://www.hammfg.com/files/parts/pdf/1140-DB-A.pdf
 
@@ -44,16 +42,10 @@ Step drill bit (optional)
 A step drill bit was a worthy investment for drilling holes in the project box. I figure I'll
 get enough use out of it for similar projects to justify the expense.
 
-<!-- add image -->
-![caption text](/img/waterfall.PNG)
-
 ## Circuit Simulation
 
 The circuit itself is pretty straightforward. The input signal passes through the isolating transformer.
 The output is two audio signals of opposite polarity.
-
-<!-- add image -->
-![caption text](/img/waterfall.PNG)
 
 The low output impedance of the transformer means adequate signal will arrive wherever it's plugged in (e.g. the mixer).
 
