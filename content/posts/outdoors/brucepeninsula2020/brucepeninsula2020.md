@@ -16,18 +16,18 @@ showTags: false
 hideBackToTop: true
 ---
 
-![grotto](/img/brucepeninsula2020/map.JPG)
+![grotto](map.JPG)
 
-![grotto](/img/brucepeninsula2020/hikebeach.JPG)
-<!--![grotto](/img/brucepeninsula2020/water.JPG) -->
-![grotto](/img/brucepeninsula2020/water2.JPG)
+![grotto](hikebeach.JPG)
+<!--![grotto](water.JPG) -->
+![grotto](water2.JPG)
 
-![grotto](/img/brucepeninsula2020/privatebeach.JPG)
-<!-- ![grotto](/img/brucepeninsula2020/privatebeach2.JPG) -->
+![grotto](privatebeach.JPG)
+<!-- ![grotto](privatebeach2.JPG) -->
 
-![grotto](/img/brucepeninsula2020/grotto.JPG)
-![grotto](/img/brucepeninsula2020/grotto2.JPG)
+![grotto](grotto.JPG)
+![grotto](grotto2.JPG)
 
-![grotto](/img/brucepeninsula2020/sunset.JPG)
-![grotto](/img/brucepeninsula2020/sunset2.JPG)
+![grotto](sunset.JPG)
+![grotto](sunset2.JPG)
 
