@@ -20,6 +20,8 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a Canadian Software Engineer with a passion for solving complex problems.
 I am interested in various topics around Python and Go programming, CI/CD systems, Docker and embedded systems. \\
+Some personal interests are included here - music, reading, and exploring the outdoors.
+
 Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
 
@@ -69,17 +71,17 @@ url = "https://github.com/malcops"
 name = "posts"
 url = "/posts"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
-[[params.menu]]
-name = "photos"
-url = "/photos"
+# [[params.menu]]
+# name = "photos"
+# url = "/photos"
 
-[[params.menu]]
-name = "library"
-url = "/library"
+# [[params.menu]]
+# name = "library"
+# url = "/library"
 
 # [[params.menu]]
 # name = "tags"
