@@ -75,8 +75,8 @@ hideBackToTop: true
 
 ## Day 5 - H6 to George Lake
 
-<!-- add image -->
-![starting sign](795.png)
+<!-- this is the iPhone step chart, not rendering nicely -->
+<!-- ![starting sign](795.png) -->
 
 <!-- add image -->
 ![starting sign](802.jpg)
