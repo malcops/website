@@ -1,7 +1,7 @@
 ---
 title: gear
 author: Paul
-date: '2024-02-19'
+date: '2026-04-27'
 summary: ' '
 description: ' '
 draft: false
