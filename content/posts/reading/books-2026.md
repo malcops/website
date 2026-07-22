@@ -1,7 +1,7 @@
 ---
 title: 2026 reading list
 author: Paul
-date: '2026-05-28'
+date: '2026-07-22'
 summary: ' '
 description: ' '
 draft: false
@@ -21,4 +21,5 @@ hideBackToTop: true
 2. Going Fast and Fixing Things - Rich Benoit
 3. Don't Be Canada - Tristin Hopper
 4. On the Edge: The Art of Risking Everything - Nate Silver
+5. Payback: Debt and the Shadow Side of Wealth - Margaret Atwood
 
