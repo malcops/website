@@ -1,7 +1,7 @@
 ---
 title: 2026 reading list
 author: Paul
-date: '2026-07-22'
+date: '2026-08-09'
 summary: ' '
 description: ' '
 draft: false
@@ -22,4 +22,4 @@ hideBackToTop: true
 3. Don't Be Canada - Tristin Hopper
 4. On the Edge: The Art of Risking Everything - Nate Silver
 5. Payback: Debt and the Shadow Side of Wealth - Margaret Atwood
-
+6. Psycho-Cybernetics - Maxwell Maltz
