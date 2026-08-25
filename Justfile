@@ -41,6 +41,7 @@ new-page NAME:
 version:
   {{DOCKER_CMD}} hugo version
 
+# Run custom checker.py script
 check:
   python3 checker.py
 
