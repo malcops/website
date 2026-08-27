@@ -1,7 +1,7 @@
 # Justfile for a Hugo website
 # Run commands with: just <recipe>
 
-DOCKER_CMD := "docker run -v ${PWD}:/src --net=host hugomods/hugo"
+DOCKER_CMD := "docker run -v ${PWD}:/src:z --net=host hugomods/hugo"
 
 # Default recipe
 default:
