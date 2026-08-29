@@ -18,9 +18,12 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a Canadian Software Engineer with a passion for solving complex problems.
-I am interested in various topics around Python and Go programming, CI/CD systems, Docker and embedded systems. \\
-Some personal interests are included here - music, reading, and exploring the outdoors.
+
+Systems / Embedded Software Engineer specializing in the hardware-software boundary.
+
+Python · Go · C/C++ · Linux · Docker · CI/CD · Embedded Systems
+
+Some personal interests are also included here - music, reading, and exploring the outdoors.
 
 Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
