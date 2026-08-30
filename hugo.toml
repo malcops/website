@@ -1,4 +1,4 @@
-baseURL = 'https://malcops.github.io'
+baseURL = 'https://malcops.github.io/website/'
 languageCode = 'en-us'
 title = 'Paul Malcolm'
 theme = 'typo'
