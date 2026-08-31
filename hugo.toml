@@ -1,3 +1,6 @@
+# github pages:  https://malcops.github.io/website
+# local: http://localhost
+# paulmalcolm.ca: https://paulmalcolm.ca
 baseURL = 'https://malcops.github.io/website/'
 languageCode = 'en-us'
 title = 'Paul Malcolm'
@@ -24,8 +27,6 @@ Systems / Embedded Software Engineer specializing in the hardware-software bound
 Python · Go · C/C++ · Linux · Docker · CI/CD · Embedded Systems
 
 Some personal interests are also included here - music, reading, and exploring the outdoors.
-
-Feel free to read [about myself](/about) or to look at my [posts](/posts).
 """
 
 singleDateFormat = '2 Jan 2006'
