@@ -9,7 +9,7 @@ default:
 
 # Serve the site locally with drafts enabled
 serve:
-  {{DOCKER_CMD}} server -D
+  {{DOCKER_CMD}} server -D --baseURL http://localhost
 
 # Serve on a specific port
 # serve-port PORT=1313:
@@ -22,6 +22,12 @@ build:
 # Build with minification
 build-min:
   {{DOCKER_CMD}} hugo --minify
+
+# Build for paulmalcolm.ca release
+# without --baseURL the LinkedIn and Github icons appear huge
+# (.css gets 404)
+build-release:
+  {{DOCKER_CMD}} hugo --baseURL https://paulmalcolm.ca
 
 # Clean the generated site
 clean:
