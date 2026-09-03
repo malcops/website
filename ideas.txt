@@ -5,7 +5,7 @@ Pycon 2024
 OddBunch produce review
 'editors' Chiquita and Azteca
 
-Products and their Made in Canada alternatives 
+Products and their Made in Canada alternatives
  - Blundstone -> Canada West
  - Champion reverse weave -> Reigning Champ crewneck
  - Stanfields?
@@ -21,3 +21,20 @@ Tailscale homelab setup
 write a C syntax checker in Python/Golang
 how to recompress a Debian package
 ASYNC_LOW_LATENCY setting USB serial (Pyserial)
+
+add skgold referral link
+
+blogroll - basically my RSS feed
+bookshelf - basically my top books
+
+software tools i swear by (awesome-software)
+- Jellyfin
+- tailscale
+- pytest
+- go
+- docker compose
+- rg
+- Zed editor
+- Kicad
+- ruff (Astral)
+- BubbleTea and Textual
